@@ -1,0 +1,238 @@
+[ 2022-02-08 21:35:15,426 ] Cannot open "F:\OT\Clientes\Tibia 12.85.11525\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-08 21:35:16,830 ] Asset loading complete
+[ 2022-02-08 21:35:31,624 ] Cannot open "F:\OT\Clientes\Tibia 12.85.11525\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-08 21:35:33,258 ] Asset loading complete
+[ 2022-02-12 15:13:58,357 ] Cannot open "C:\Games\tibia-client-12.85.11525\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-12 15:13:59,358 ] Asset loading complete
+[ 2022-02-12 15:16:59,005 ] Cannot open "C:\Games\tibia-client-12.85.11525\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-12 15:16:59,739 ] Asset loading complete
+[ 2022-02-12 15:21:19,459 ] Cannot open "C:\Games\tibia-client-12.85.11525\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-12 15:21:20,449 ] Asset loading complete
+[ 2022-02-12 15:21:22,895 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-12 15:21:24,572 ] BattlEye: "Initialized (v1.246)"
+[ 2022-02-12 15:21:24,572 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-02-12 15:21:24,572 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-02-12 15:21:24,619 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-12 15:21:24,623 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "Canary"
+[ 2022-02-12 15:21:24,633 ] Connected to gameserver  "tcp://192.168.8.48:7172" "Canary"
+[ 2022-02-12 15:21:25,604 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-12 15:22:16,386 ] Connection to gameserver  "tcp://192.168.8.48:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-12 15:22:16,437 ] Disconnected from gameserver
+[ 2022-02-12 15:22:16,672 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-19 21:10:21,808 ] Cannot open "C:\Games\tibia-client-12.85.11525\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-19 21:10:23,285 ] Asset loading complete
+[ 2022-02-19 21:10:45,548 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-19 21:10:46,721 ] BattlEye: "Initialized (v1.246)"
+[ 2022-02-19 21:10:46,721 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-02-19 21:10:46,721 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-02-19 21:10:46,768 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-19 21:10:46,774 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "Canary"
+[ 2022-02-19 21:10:46,786 ] Connected to gameserver  "tcp://192.168.8.48:7172" "Canary"
+[ 2022-02-19 21:10:46,794 ] Connection to gameserver  "tcp://192.168.8.48:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-19 21:10:46,798 ] Disconnected from gameserver
+[ 2022-02-19 21:10:47,757 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-19 21:12:31,562 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-19 21:12:32,212 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-19 21:12:32,271 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "Canary"
+[ 2022-02-19 21:12:32,282 ] Connected to gameserver  "tcp://192.168.8.48:7172" "Canary"
+[ 2022-02-19 21:12:32,321 ] Connection to gameserver  "tcp://192.168.8.48:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-19 21:12:32,327 ] Disconnected from gameserver
+[ 2022-02-19 21:12:33,204 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 21:12:34,505 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 21:12:36,594 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-19 21:12:36,595 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "Canary"
+[ 2022-02-19 21:12:36,605 ] Connected to gameserver  "tcp://192.168.8.48:7172" "Canary"
+[ 2022-02-19 21:12:36,672 ] Connection to gameserver  "tcp://192.168.8.48:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-19 21:12:36,677 ] Disconnected from gameserver
+[ 2022-02-19 21:12:37,571 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 21:12:38,421 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 21:16:25,584 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 21:16:26,273 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-19 21:16:26,274 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-19 21:16:26,284 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-19 21:16:27,266 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 21:17:04,165 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-19 21:17:04,217 ] Disconnected from gameserver
+[ 2022-02-19 21:48:31,658 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 21:48:32,473 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-19 21:48:32,475 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-19 21:48:32,486 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-19 21:48:33,458 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 21:56:29,615 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-19 21:56:29,666 ] Disconnected from gameserver
+[ 2022-02-19 22:10:41,413 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 22:10:49,681 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 22:10:53,166 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Garona" )
+[ 2022-02-19 22:10:53,168 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-19 22:10:53,178 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-19 22:10:54,129 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 22:11:02,463 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-19 22:11:02,511 ] Disconnected from gameserver
+[ 2022-02-19 22:11:02,550 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 22:36:17,414 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 22:36:18,849 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Lizwan" )
+[ 2022-02-19 22:36:18,851 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-19 22:36:18,861 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-19 22:36:19,797 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 22:36:27,713 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-19 22:36:27,762 ] Disconnected from gameserver
+[ 2022-02-19 22:36:27,802 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 22:36:28,979 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Emrys" )
+[ 2022-02-19 22:36:28,982 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-19 22:36:28,993 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-19 22:36:29,946 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-19 22:36:30,613 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-19 22:36:30,661 ] Disconnected from gameserver
+[ 2022-02-19 22:36:30,696 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 00:27:43,335 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 00:27:57,706 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 00:27:59,406 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Yah" )
+[ 2022-02-20 00:27:59,408 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 00:27:59,418 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 00:28:00,390 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 00:28:18,658 ] Cannot open "C:\Games\tibia-client-12.85.11525\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-20 00:28:19,774 ] Asset loading complete
+[ 2022-02-20 00:28:25,778 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-20 00:28:27,877 ] BattlEye: "Initialized (v1.246)"
+[ 2022-02-20 00:28:27,877 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-02-20 00:28:27,877 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-02-20 00:28:27,925 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-20 00:28:27,929 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 00:28:27,941 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 00:28:28,922 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-20 01:13:06,998 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435463 found"
+[ 2022-02-20 01:13:06,998 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435463 found"
+[ 2022-02-20 01:16:32,160 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-20 01:16:32,161 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-20 01:16:32,216 ] Disconnected from gameserver
+[ 2022-02-20 01:16:32,218 ] Disconnected from gameserver
+[ 2022-02-20 01:50:59,117 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 01:51:00,582 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Yah" )
+[ 2022-02-20 01:51:00,584 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 01:51:00,585 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 01:51:01,550 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 01:51:03,460 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-20 01:51:04,418 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-20 01:51:04,419 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 01:51:04,420 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 01:51:05,384 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:02:34,611 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-02-20 02:02:34,611 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-02-20 02:02:34,611 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-02-20 02:07:24,412 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-20 02:07:24,462 ] Disconnected from gameserver
+[ 2022-02-20 02:07:27,896 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:07:35,297 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:07:38,080 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Garona" )
+[ 2022-02-20 02:07:38,082 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:07:38,092 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:07:39,046 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:13:40,972 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-20 02:13:41,023 ] Disconnected from gameserver
+[ 2022-02-20 02:13:41,062 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:13:44,825 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Sunlary" )
+[ 2022-02-20 02:13:44,855 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:13:44,872 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:13:45,788 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:16:06,518 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-20 02:16:06,567 ] Disconnected from gameserver
+[ 2022-02-20 02:16:06,602 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:16:07,708 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Xull" )
+[ 2022-02-20 02:16:07,709 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:16:07,720 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:16:08,669 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:17:52,616 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-20 02:17:52,666 ] Disconnected from gameserver
+[ 2022-02-20 02:17:52,705 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:17:56,645 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Emrys" )
+[ 2022-02-20 02:17:56,647 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:17:56,657 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:17:57,616 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:20:14,613 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-20 02:20:14,663 ] Disconnected from gameserver
+[ 2022-02-20 02:20:14,701 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:20:53,549 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Sunlary" )
+[ 2022-02-20 02:20:53,550 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:20:53,561 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:20:54,513 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:22:22,027 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-20 02:22:22,075 ] Disconnected from gameserver
+[ 2022-02-20 02:22:22,117 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:42:45,617 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-20 02:42:45,667 ] Disconnected from gameserver
+[ 2022-02-20 02:42:45,704 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:42:56,727 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Garona" )
+[ 2022-02-20 02:42:56,729 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:42:56,739 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-20 02:42:57,701 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-20 02:43:06,717 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-20 02:43:06,766 ] Disconnected from gameserver
+[ 2022-02-20 02:43:06,803 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http//127.0.0.1/login.php") ) due to too many retries.
+[ 2022-02-21 10:42:13,791 ] Cannot open "C:\Games\tibia-client-12.85.11525\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 10:42:15,732 ] Asset loading complete
+[ 2022-02-21 10:42:46,781 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 10:42:51,447 ] BattlEye: "Initialized (v1.246)"
+[ 2022-02-21 10:42:51,447 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-02-21 10:42:51,447 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-02-21 10:42:51,502 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-21 10:42:51,505 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 10:42:52,580 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 10:42:55,864 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-02-21 10:42:56,864 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 10:43:01,214 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-02-21 10:43:01,219 ] Disconnected from gameserver
+[ 2022-02-21 10:43:02,536 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-21 10:43:02,537 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 10:43:03,597 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 10:43:06,863 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-02-21 10:43:07,864 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 10:43:12,213 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-02-21 10:43:12,216 ] Disconnected from gameserver
+[ 2022-02-21 10:43:13,432 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-21 10:43:13,433 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 10:43:14,414 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 10:43:17,764 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-02-21 10:43:18,764 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 10:43:23,113 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-02-21 10:43:23,117 ] Disconnected from gameserver
+[ 2022-02-21 10:43:24,334 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-21 10:43:24,335 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 10:43:25,313 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 10:43:28,714 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-02-21 10:43:29,714 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 10:43:34,063 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-02-21 10:43:34,067 ] Disconnected from gameserver
+[ 2022-02-21 10:43:36,484 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-21 10:43:36,485 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 10:43:37,463 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 10:43:40,813 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-02-21 10:43:40,897 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 11:23:50,631 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 11:23:51,805 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-21 11:23:51,864 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 11:23:51,897 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 11:23:52,780 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 11:24:10,862 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-21 11:24:10,912 ] Disconnected from gameserver
+[ 2022-02-21 11:24:10,944 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 11:53:57,733 ] Cannot open "C:\Games\tibia-client-12.85.11525\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 11:53:59,199 ] Asset loading complete
+[ 2022-02-21 11:54:04,951 ] Cannot open "C:\Games\tibia-client-12.85.11525\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 11:54:05,683 ] Asset loading complete
+[ 2022-02-21 13:00:46,315 ] Cannot open "C:\Games\tibia-client-12.85.11525\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 13:00:47,116 ] Asset loading complete
+[ 2022-02-21 13:16:43,345 ] Cannot open "C:\Games\tibia-client-12.85.11525\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 13:16:44,135 ] Asset loading complete
+[ 2022-02-21 13:16:47,487 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 13:17:55,586 ] Cannot open "C:\Games\tibia-client-12.85.11525\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 13:17:56,366 ] Asset loading complete
+[ 2022-02-21 13:18:02,534 ] Cannot open "C:\Games\tibia-client-12.85.11525\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 13:18:03,199 ] Asset loading complete
+[ 2022-02-21 13:18:18,470 ] Cannot open "C:\Games\tibia-client-12.85.11525\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 13:18:19,146 ] Asset loading complete
+[ 2022-02-21 13:19:47,859 ] Cannot open "C:\Games\tibia-client-12.85.11525\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 13:19:48,612 ] Asset loading complete
+[ 2022-02-21 13:19:52,578 ] Cannot open "C:\Games\tibia-client-12.85.11525\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 13:19:53,360 ] Asset loading complete
+[ 2022-02-21 13:20:26,635 ] Cannot open "C:\Games\tibia-client-12.85.11525\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 13:20:27,334 ] Asset loading complete
