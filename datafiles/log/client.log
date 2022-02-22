@@ -236,3 +236,132 @@
 [ 2022-02-21 13:19:53,360 ] Asset loading complete
 [ 2022-02-21 13:20:26,635 ] Cannot open "C:\Games\tibia-client-12.85.11525\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
 [ 2022-02-21 13:20:27,334 ] Asset loading complete
+[ 2022-02-21 18:02:39,798 ] Cannot open "C:\Games\Moonlight-Client\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 18:02:40,756 ] Asset loading complete
+[ 2022-02-21 18:02:45,179 ] Cannot open "C:\Games\Moonlight-Client\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 18:02:45,941 ] Asset loading complete
+[ 2022-02-21 18:02:57,704 ] Cannot open "C:\Games\Moonlight-Client\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 18:02:58,390 ] Asset loading complete
+[ 2022-02-21 18:03:08,239 ] Cannot open "C:\Games\Moonlight-Client\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 18:03:08,989 ] Asset loading complete
+[ 2022-02-21 18:03:13,229 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 18:03:14,383 ] BattlEye: "Initialized (v1.246)"
+[ 2022-02-21 18:03:14,383 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-02-21 18:03:14,383 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-02-21 18:03:14,431 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Lizwan" )
+[ 2022-02-21 18:03:14,436 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 18:03:14,462 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 18:03:15,497 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 18:06:41,742 ] Cannot open "C:\Games\Moonlight-Client\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 18:06:42,519 ] Asset loading complete
+[ 2022-02-21 18:06:49,308 ] Model size of -293 is less than 0
+[ 2022-02-21 18:06:49,316 ] Model size of -41 is less than 0
+[ 2022-02-21 18:06:56,591 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 18:06:57,541 ] BattlEye: "Initialized (v1.246)"
+[ 2022-02-21 18:06:57,541 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-02-21 18:06:57,542 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-02-21 18:06:57,590 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Lizwan" )
+[ 2022-02-21 18:06:57,598 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 18:06:57,679 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 18:06:58,675 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 18:09:53,638 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-21 18:09:53,691 ] Disconnected from gameserver
+[ 2022-02-21 18:11:07,852 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 18:11:09,146 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Lizwan" )
+[ 2022-02-21 18:11:09,148 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 18:11:09,186 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 18:11:10,103 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 18:18:46,244 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073788390 found"
+[ 2022-02-21 18:21:59,408 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-02-21 18:21:59,408 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-02-21 18:21:59,408 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-02-21 18:34:34,756 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073810117 found"
+[ 2022-02-21 18:34:34,856 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073810117 found"
+[ 2022-02-21 18:34:35,856 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073810117 found"
+[ 2022-02-21 18:44:03,127 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073817831 found"
+[ 2022-02-21 18:44:22,077 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073817826 found"
+[ 2022-02-21 19:13:06,239 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-21 19:13:06,292 ] Disconnected from gameserver
+[ 2022-02-21 19:13:06,333 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 19:13:07,378 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Lizwan" )
+[ 2022-02-21 19:13:07,380 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 19:13:07,423 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 19:13:08,340 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 20:41:37,692 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-21 20:41:37,743 ] Disconnected from gameserver
+[ 2022-02-21 20:41:37,785 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 20:51:32,776 ] Cannot open "C:\Games\Moonlight-Client\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-21 20:51:33,649 ] Asset loading complete
+[ 2022-02-21 20:51:42,546 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 20:51:49,055 ] BattlEye: "Initialized (v1.246)"
+[ 2022-02-21 20:51:49,055 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-02-21 20:51:49,055 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-02-21 20:51:49,104 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Emrys" )
+[ 2022-02-21 20:51:49,109 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:51:49,145 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:51:50,178 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 20:55:59,223 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-21 20:55:59,278 ] Disconnected from gameserver
+[ 2022-02-21 20:55:59,740 ] News query failed: "Unrecognized event news."
+[ 2022-02-21 20:56:01,486 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Mordred" )
+[ 2022-02-21 20:56:01,488 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:56:01,523 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:56:02,456 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 20:57:25,471 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-21 20:57:25,520 ] Disconnected from gameserver
+[ 2022-02-21 20:57:25,559 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 20:57:30,426 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Sunlary" )
+[ 2022-02-21 20:57:30,428 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:57:30,472 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:57:30,714 ] QIODevice::peek (QTcpSocket): device not open
+[ 2022-02-21 20:57:30,714 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "Unable to write" )
+[ 2022-02-21 20:57:30,765 ] Disconnected from gameserver
+[ 2022-02-21 20:57:30,776 ] QIODevice::peek (QTcpSocket): device not open
+[ 2022-02-21 20:57:31,405 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 20:57:38,771 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 20:57:39,224 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Sunlary" )
+[ 2022-02-21 20:57:39,226 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:57:39,255 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:57:40,188 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 20:57:53,620 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-21 20:57:53,670 ] Disconnected from gameserver
+[ 2022-02-21 20:57:53,708 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 20:57:57,771 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Emrys" )
+[ 2022-02-21 20:57:57,820 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:57:57,854 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:57:58,755 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 20:59:23,352 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073818386 found"
+[ 2022-02-21 20:59:30,269 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-21 20:59:30,320 ] Disconnected from gameserver
+[ 2022-02-21 20:59:30,360 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 20:59:31,329 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-21 20:59:31,331 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:59:31,369 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 20:59:32,302 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 21:09:09,673 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-21 21:09:09,725 ] Disconnected from gameserver
+[ 2022-02-21 21:09:09,760 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 21:09:13,411 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Lizwan" )
+[ 2022-02-21 21:09:13,413 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 21:09:13,456 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 21:09:14,390 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 21:10:52,571 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-21 21:10:52,623 ] Disconnected from gameserver
+[ 2022-02-21 21:10:52,673 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-21 21:10:53,471 ] Request connection to gameserver  "tcp://35.199.115.108:7172"  (unprotected:  "tcp://35.199.115.108:7172" )  requested (Charakter "Burgos" )
+[ 2022-02-21 21:10:53,473 ] Request connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 21:10:53,504 ] Connected to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"
+[ 2022-02-21 21:10:54,437 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
+[ 2022-02-22 01:05:04,514 ] Cannot open "C:\Games\Moonlight-Client\datafiles\conf\gpublacklist.json": O sistema não pode encontrar o arquivo especificado.
+[ 2022-02-22 01:05:05,328 ] Asset loading complete
+[ 2022-02-22 01:05:07,553 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-22 01:05:10,858 ] BattlEye: "Initialized (v1.246)"
+[ 2022-02-22 01:05:10,858 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-02-22 01:05:10,858 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-02-22 01:05:10,912 ] Request connection to gameserver  "tcp://192.168.8.48:7172"  (unprotected:  "tcp://192.168.8.48:7172" )  requested (Charakter "Lizwano" )
+[ 2022-02-22 01:05:10,916 ] Request connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-22 01:05:10,926 ] Connected to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"
+[ 2022-02-22 01:05:11,918 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-22 01:06:18,917 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-22 01:06:18,969 ] Disconnected from gameserver
+[ 2022-02-22 01:06:19,256 ] News query failed: "Protocol \"\" is unknown"

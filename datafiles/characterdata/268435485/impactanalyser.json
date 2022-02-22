@@ -7,6 +7,6 @@
     "dpsGaugeTargetValue": 0.1,
     "hpsGaugeTargetValue": 0.1,
     "maxDamageImpact": 250,
-    "maxHealingImpact": 163,
+    "maxHealingImpact": 173,
     "showSessionValues": false
 }

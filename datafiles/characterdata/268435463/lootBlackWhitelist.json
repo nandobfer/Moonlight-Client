@@ -1,7 +1,7 @@
 {
     "blacklistTypes": [
     ],
-    "listType": "blacklist",
+    "listType": "whitelist",
     "whitelistTypes": [
     ]
 }

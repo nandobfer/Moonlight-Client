@@ -46,19 +46,11 @@
     },
     "hotkeyOptions": {
         "autoSwitchHotkeyPreset": true,
-        "currentHotkeySetName": "Burgos",
+        "currentHotkeySetName": "Lizwan",
         "hotkeySets": {
             "Burgos": {
                 "actionBarOptions": {
                     "mappings": [
-                        {
-                            "actionBar": 1,
-                            "actionButton": 25,
-                            "actionsetting": {
-                                "chatText": "/reload scripts",
-                                "sendAutomatically": true
-                            }
-                        },
                         {
                             "actionBar": 1,
                             "actionButton": 1,
@@ -69,9 +61,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 19,
+                            "actionButton": 25,
                             "actionsetting": {
-                                "chatText": "utevo gran lux",
+                                "chatText": "/reload scripts",
                                 "sendAutomatically": true
                             }
                         },
@@ -85,9 +77,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 21,
+                            "actionButton": 19,
                             "actionsetting": {
-                                "chatText": "exana pox",
+                                "chatText": "utevo gran lux",
                                 "sendAutomatically": true
                             }
                         },
@@ -96,6 +88,14 @@
                             "actionButton": 5,
                             "actionsetting": {
                                 "chatText": "utani hur",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 21,
+                            "actionsetting": {
+                                "chatText": "exana pox",
                                 "sendAutomatically": true
                             }
                         },
@@ -1683,14 +1683,6 @@
                     "mappings": [
                         {
                             "actionBar": 1,
-                            "actionButton": 25,
-                            "actionsetting": {
-                                "chatText": "/reload scripts",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 1,
                             "actionsetting": {
                                 "chatText": "exura gran",
@@ -1699,9 +1691,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 19,
+                            "actionButton": 25,
                             "actionsetting": {
-                                "chatText": "utevo lux",
+                                "chatText": "/reload scripts",
                                 "sendAutomatically": true
                             }
                         },
@@ -1715,9 +1707,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 21,
+                            "actionButton": 19,
                             "actionsetting": {
-                                "chatText": "exana pox",
+                                "chatText": "utevo lux",
                                 "sendAutomatically": true
                             }
                         },
@@ -1726,6 +1718,14 @@
                             "actionButton": 5,
                             "actionsetting": {
                                 "chatText": "utani hur",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 21,
+                            "actionsetting": {
+                                "chatText": "exana pox",
                                 "sendAutomatically": true
                             }
                         },
@@ -2609,14 +2609,6 @@
                     "mappings": [
                         {
                             "actionBar": 1,
-                            "actionButton": 25,
-                            "actionsetting": {
-                                "chatText": "/reload scripts",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 1,
                             "actionsetting": {
                                 "chatText": "exori hur",
@@ -2625,9 +2617,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 19,
+                            "actionButton": 25,
                             "actionsetting": {
-                                "chatText": "utevo gran lux",
+                                "chatText": "/reload scripts",
                                 "sendAutomatically": true
                             }
                         },
@@ -2641,9 +2633,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 21,
+                            "actionButton": 19,
                             "actionsetting": {
-                                "chatText": "exana pox",
+                                "chatText": "utevo gran lux",
                                 "sendAutomatically": true
                             }
                         },
@@ -2652,6 +2644,14 @@
                             "actionButton": 5,
                             "actionsetting": {
                                 "chatText": "utani hur",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 21,
+                            "actionsetting": {
+                                "chatText": "exana pox",
                                 "sendAutomatically": true
                             }
                         },
@@ -3495,14 +3495,6 @@
                     "mappings": [
                         {
                             "actionBar": 1,
-                            "actionButton": 25,
-                            "actionsetting": {
-                                "chatText": "/reload scripts",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 1,
                             "actionsetting": {
                                 "chatText": "exori con",
@@ -3511,9 +3503,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 19,
+                            "actionButton": 25,
                             "actionsetting": {
-                                "chatText": "utevo gran lux",
+                                "chatText": "/reload scripts",
                                 "sendAutomatically": true
                             }
                         },
@@ -3527,9 +3519,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 21,
+                            "actionButton": 19,
                             "actionsetting": {
-                                "chatText": "exana pox",
+                                "chatText": "utevo gran lux",
                                 "sendAutomatically": true
                             }
                         },
@@ -3538,6 +3530,14 @@
                             "actionButton": 5,
                             "actionsetting": {
                                 "chatText": "utani hur",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 21,
+                            "actionsetting": {
+                                "chatText": "exana pox",
                                 "sendAutomatically": true
                             }
                         },
@@ -4429,17 +4429,17 @@
                     "mappings": [
                         {
                             "actionBar": 1,
-                            "actionButton": 25,
+                            "actionButton": 1,
                             "actionsetting": {
-                                "chatText": "/reload scripts",
+                                "chatText": "exori hur",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 1,
+                            "actionButton": 25,
                             "actionsetting": {
-                                "chatText": "exori hur",
+                                "chatText": "/reload scripts",
                                 "sendAutomatically": true
                             }
                         },
@@ -4453,6 +4453,14 @@
                         },
                         {
                             "actionBar": 1,
+                            "actionButton": 5,
+                            "actionsetting": {
+                                "chatText": "utani hur",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
                             "actionButton": 21,
                             "actionsetting": {
                                 "useObject": 3059,
@@ -4461,9 +4469,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 5,
+                            "actionButton": 6,
                             "actionsetting": {
-                                "chatText": "utani hur",
+                                "chatText": "exori sin amb",
                                 "sendAutomatically": true
                             }
                         },
@@ -4473,14 +4481,6 @@
                             "actionsetting": {
                                 "useObject": 236,
                                 "useType": "UseOnYourself"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 6,
-                            "actionsetting": {
-                                "chatText": "exori sin amb",
-                                "sendAutomatically": true
                             }
                         },
                         {
@@ -4496,14 +4496,6 @@
                             "actionButton": 11,
                             "actionsetting": {
                                 "chatText": "utana vid",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 29,
-                            "actionsetting": {
-                                "chatText": "exeta vial",
                                 "sendAutomatically": true
                             }
                         },
@@ -4568,6 +4560,30 @@
                             "actionButton": 10,
                             "actionsetting": {
                                 "chatText": "utani gran hur",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 42,
+                            "actionsetting": {
+                                "useObject": 3003,
+                                "useType": "UseOnYourself"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 8,
+                            "actionsetting": {
+                                "useObject": 266,
+                                "useType": "UseOnYourself"
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 29,
+                            "actionsetting": {
+                                "chatText": "exeta vial",
                                 "sendAutomatically": true
                             }
                         }
@@ -6715,17 +6731,17 @@
                     "mappings": [
                         {
                             "actionBar": 1,
-                            "actionButton": 25,
+                            "actionButton": 1,
                             "actionsetting": {
-                                "chatText": "/reload scripts",
+                                "chatText": "exura san",
                                 "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 1,
+                            "actionButton": 25,
                             "actionsetting": {
-                                "chatText": "exura san",
+                                "chatText": "/reload scripts",
                                 "sendAutomatically": true
                             }
                         },
@@ -6739,6 +6755,14 @@
                         },
                         {
                             "actionBar": 1,
+                            "actionButton": 21,
+                            "actionsetting": {
+                                "chatText": "exana pox",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
                             "actionButton": 13,
                             "actionsetting": {
                                 "chatText": "utito mas sio",
@@ -6747,9 +6771,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 21,
+                            "actionButton": 6,
                             "actionsetting": {
-                                "chatText": "exana pox",
+                                "chatText": "exura gran san",
                                 "sendAutomatically": true
                             }
                         },
@@ -6759,14 +6783,6 @@
                             "actionsetting": {
                                 "useObject": 236,
                                 "useType": "UseOnYourself"
-                            }
-                        },
-                        {
-                            "actionBar": 1,
-                            "actionButton": 6,
-                            "actionsetting": {
-                                "chatText": "exura gran san",
-                                "sendAutomatically": true
                             }
                         },
                         {
@@ -7609,14 +7625,6 @@
                     "mappings": [
                         {
                             "actionBar": 1,
-                            "actionButton": 25,
-                            "actionsetting": {
-                                "chatText": "/reload scripts",
-                                "sendAutomatically": true
-                            }
-                        },
-                        {
-                            "actionBar": 1,
                             "actionButton": 1,
                             "actionsetting": {
                                 "chatText": "exori mas mort",
@@ -7625,9 +7633,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 19,
+                            "actionButton": 25,
                             "actionsetting": {
-                                "chatText": "utevo gran lux",
+                                "chatText": "/reload scripts",
                                 "sendAutomatically": true
                             }
                         },
@@ -7641,9 +7649,9 @@
                         },
                         {
                             "actionBar": 1,
-                            "actionButton": 21,
+                            "actionButton": 19,
                             "actionsetting": {
-                                "chatText": "exana pox",
+                                "chatText": "utevo gran lux",
                                 "sendAutomatically": true
                             }
                         },
@@ -7652,6 +7660,14 @@
                             "actionButton": 5,
                             "actionsetting": {
                                 "chatText": "utani hur",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 21,
+                            "actionsetting": {
+                                "chatText": "exana pox",
                                 "sendAutomatically": true
                             }
                         },

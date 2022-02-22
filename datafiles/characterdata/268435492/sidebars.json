@@ -111,14 +111,6 @@
                 {
                     "instance": 0,
                     "type": "battleList"
-                },
-                {
-                    "instance": 0,
-                    "type": "container"
-                },
-                {
-                    "instance": 1,
-                    "type": "container"
                 }
             ],
             [
@@ -143,7 +135,7 @@
         "showHealingSpellGroup": true,
         "showKnightSpells": true,
         "showOnlyCurrentLevel": false,
-        "showOnlyCurrentProfession": false,
+        "showOnlyCurrentVocation": false,
         "showPaladinSpells": true,
         "showPremiumOnlySpells": true,
         "showSorcererSpells": true,
