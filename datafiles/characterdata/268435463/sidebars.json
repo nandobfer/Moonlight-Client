@@ -104,10 +104,6 @@
             [
                 {
                     "type": "skills"
-                },
-                {
-                    "instance": 0,
-                    "type": "container"
                 }
             ]
         ]

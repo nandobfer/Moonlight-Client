@@ -365,3 +365,6 @@
 [ 2022-02-22 01:06:18,917 ] Connection to gameserver  "tcp://192.168.8.48:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
 [ 2022-02-22 01:06:18,969 ] Disconnected from gameserver
 [ 2022-02-22 01:06:19,256 ] News query failed: "Protocol \"\" is unknown"
+[ 2022-02-22 01:13:57,074 ] Connection to gameserver  "tcp://35.199.115.108:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-02-22 01:13:57,136 ] Disconnected from gameserver
+[ 2022-02-22 01:13:57,179 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://moonlight.servegame.com/login.php") ) due to too many retries.
